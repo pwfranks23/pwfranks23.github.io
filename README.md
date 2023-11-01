@@ -1,7 +1,7 @@
 # Patrick W. Franks
-## Based in San Francisco, CA
+#### Based in San Francisco, CA
 
-I'm part of the team at Skip, trying to build a powered exoskeleton to assist movement.
+I'm part of the team at [Skip](https://www.skipwithjoy.com/), trying to build a powered exoskeleton to assist movement. 
 
 ### Some previous work of mine
 Full publication list can be found [on my google scholar profile](https://scholar.google.com/citations?hl=en&user=Fzhk_ssAAAAJ)
