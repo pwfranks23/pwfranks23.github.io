@@ -5,6 +5,8 @@
 I'm part of the team at [Skip](https://www.skipwithjoy.com/), building a powered exoskeleton to make movement joyful for the 1 billion people with reduced mobility. Before joining Skip, I have worked on designing and controlling exoskeletons while at Google X, Stanford, Carnegie Mellon, and the Shirley Ryan AbilityLab. 
 
 ### Coverage of Skip 
+- [Fast Company](https://www.fastcompany.com/91159743/skip-and-arcteryx-built-an-amazing-new-exoskeleton-heres-what-its-like-to-walk-in-it)
+- [TechCrunch](https://techcrunch.com/2024/07/26/alphabet-x-spinoff-skip-partners-with-arcteryx-to-bring-everyday-exoskeleton-to-market/)
 - [_Bloomberg_](https://www.bloomberg.com/news/features/2024-05-20/google-s-era-of-unrestrained-invention-is-coming-to-an-end?embedded-checkout=true)
 
 
